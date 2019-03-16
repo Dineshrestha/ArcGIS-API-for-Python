@@ -4,3 +4,5 @@ Welcome to the lab.
 ArcGIS API for Python
 ArcGIS API for JavaScript
 ArcPy
+PostgreSQL
+
