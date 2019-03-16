@@ -5,4 +5,9 @@ ArcGIS API for Python
 ArcPy
 PostgreSQL
 
+QGIS
+ArcgIS Online
+
+something that i donot have here but in a new branch. 
+
 End
