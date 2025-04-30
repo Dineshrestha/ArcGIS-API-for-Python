@@ -1,7 +1,7 @@
 # ArcGIS-API-for-Python
 
 <p align="center">
-<img src="https://github.com/Dineshrestha/Python_Tricks_for_Social/blob/main/Python_Tricks_for_Social.png" width="600" />
+<img src="https://github.com/Dineshrestha/ArcGIS-API-for-Python/blob/master/ArcGIS-API-for-Python.png" width="600" />
 </p>
 
 Welcome to the ArcGIS API for Python scripts collection! This repository is a growing library of practical and task-driven scripts focused on geospatial automation, data analysis, and ArcGIS Online/Enterprise management using the powerful arcgis Python package.
